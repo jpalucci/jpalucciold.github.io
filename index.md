@@ -1,6 +1,6 @@
 [About Me](about.md) [Publications](publications.md) [CV](cv.pdf)
 
-## THIS IS A WEBSITE TEST
+## jonathan palucci
 
 {% include icon.html id="twitter" title="twitter" %}
 
