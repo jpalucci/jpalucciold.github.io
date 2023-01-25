@@ -1,4 +1,4 @@
-[About Me](about.md) [Publications](publications.md) [CV](cv.pdf)
+[About Me](about.md) [Research](publications.md) [CV](cv.pdf)
 
 ## jonathan palucci
 
