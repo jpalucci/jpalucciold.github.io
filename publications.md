@@ -1,6 +1,6 @@
 - **Modal Ingredients of Causative *have*** \
   Jonathan Palucci. \
-  Forthcoming in *Proceedings of the 53rd North East Linguistics Society*. Göttingen, Germany. January, 2023.
+  In *Proceedings of the 53rd North East Linguistics Society*. Göttingen, Germany. January, 2023.
 
 - **Unifying English Causative and Experiencer *have*: the affected argument** (Talk) \
   Jonathan Palucci. \
